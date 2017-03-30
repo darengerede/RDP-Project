@@ -1,0 +1,9 @@
+I:\rep\RDP_Info\bin\Debug\RDP_Info.exe.config
+I:\rep\RDP_Info\bin\Debug\RDP_Info.exe
+I:\rep\RDP_Info\bin\Debug\RDP_Info.pdb
+I:\rep\RDP_Info\obj\Debug\RDP_Info.csprojResolveAssemblyReference.cache
+I:\rep\RDP_Info\obj\Debug\RDP_Info.exe
+I:\rep\RDP_Info\obj\Debug\RDP_Info.pdb
+I:\rep\RDP_Info\bin\Debug\Newtonsoft.Json.dll
+I:\rep\RDP_Info\bin\Debug\Newtonsoft.Json.xml
+I:\rep\RDP_Info\bin\Debug\System.Management.dll
